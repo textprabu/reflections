@@ -1,0 +1,4 @@
+git commands
+ls -a  --> show the all files plus  hidden files in the repositary/directory
+git innit --> will iniitialize the working directory into to a git repositary
+git status --> shoes the list of commits or modification done in the repository 
