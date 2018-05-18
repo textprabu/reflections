@@ -19,5 +19,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 merging two branch creates a single which contains the commits of both the branches which is merged ,listed according to time stamp
 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+git shows set of changes made in he both the branches if a conflict exists
